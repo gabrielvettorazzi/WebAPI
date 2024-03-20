@@ -1,0 +1,6 @@
+@filmesSAPI_HostAddress = http://localhost:5139
+
+GET {{filmesSAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filmesSAPI", "filmesSAPI\filmesSAPI.csproj", "{C0404F84-1BCF-41FF-A826-2565A4AA047A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0404F84-1BCF-41FF-A826-2565A4AA047A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0404F84-1BCF-41FF-A826-2565A4AA047A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0404F84-1BCF-41FF-A826-2565A4AA047A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0404F84-1BCF-41FF-A826-2565A4AA047A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
